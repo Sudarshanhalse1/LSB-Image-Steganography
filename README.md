@@ -1,4 +1,4 @@
-## 🔧 Project : Image Steganography (LSB)
+## LSB-Image-Steganography
 
 ### Description
 A C program that securely hides text data within BMP images using Least Significant Bit (LSB) encoding and decoding.
